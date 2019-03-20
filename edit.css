@@ -1,4 +1,8 @@
-.controller.custom {
-    background: url(https://i.imgur.com/Ex3N3mT.png);
+.controller.ds4 {
+    background: url(ps4-assets/base.svgz);
 
+}
+
+.edit {
+    background: url(https://i.imgur.com/Ex3N3mT.png);  
 }
