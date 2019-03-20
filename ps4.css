@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom {
-    background: url(http://mrmcpowned.com/gamepad/ps4-assets/base.svgz);
+    background: url(ps4-assets/base.svgz);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,7 +8,7 @@
 }
 
 .custom.disconnected {
-    background: url(http://mrmcpowned.com/gamepad/ps4-assets/disconnected.svgz);
+    background: url(ps4-assets/base.svgz);
 }
 
 .custom.disconnected div {
